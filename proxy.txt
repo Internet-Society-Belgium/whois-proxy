@@ -3,6 +3,7 @@ Domains by Proxy, LLC
 
 # withheldforprivacy.com
 Privacy service provided by Withheld for Privacy ehf
+Withheld for Privacy Purposes
 
 Super Privacy Service LTD c/o Dynadot
 
@@ -20,5 +21,15 @@ Whoisprotection.cc
 # anonymize.com
 Anonymize LLC
 
-
 Perfect Privacy, LLC
+
+# moniker.com
+Moniker Privacy Services
+Moniker Privacy Services, LLC
+
+# whoisguard.com
+WhoisGuard, Inc.
+
+# whoisproxy.com
+WhoisProxy.com Ltd.
+c/o WhoisProxy.com
