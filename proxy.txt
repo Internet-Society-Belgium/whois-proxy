@@ -33,3 +33,5 @@ WhoisGuard, Inc.
 # whoisproxy.com
 WhoisProxy.com Ltd.
 c/o WhoisProxy.com
+
+Whois Privacy Corp.
