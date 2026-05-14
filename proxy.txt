@@ -1,37 +1,217 @@
-# domainsbyproxy.com
+# https://www.domainsbyproxy.com/
 Domains by Proxy, LLC
 
-# withheldforprivacy.com
+# https://withheldforprivacy.com/
 Privacy service provided by Withheld for Privacy ehf
 Withheld for Privacy Purposes
 
+# https://www.dynadot.com/
 Super Privacy Service LTD c/o Dynadot
+Dynadot Privacy Service
 
-# domains-anonymizer.com
+# https://domains-anonymizer.com/
 GLOBAL DOMAIN PRIVACY
+GLOBAL DOMAIN PRIVACY SERVICES INC
 
-# privacyguardian.org
-See PrivacyGuardian.org
+# https://www.privacyguardian.org/
+See PrivacyGuardian\.org
+PrivacyGuardian\.org llc
 
-Whois Privacy Protection Service, Inc.
+Whois Privacy Protection Service, Inc\.
 
-# whoisprotection.cc
-Whoisprotection.cc
+# https://whoisprotection.cc/
+Whoisprotection\.cc
 
-# anonymize.com
+# https://www.anonymize.com/
 Anonymize LLC
 
 Perfect Privacy, LLC
 
-# moniker.com
+# https://moniker.com/
 Moniker Privacy Services
 Moniker Privacy Services, LLC
 
-# whoisguard.com
-WhoisGuard, Inc.
+# https://www.whoisguard.com/
+WhoisGuard, Inc\.
 
-# whoisproxy.com
-WhoisProxy.com Ltd.
-c/o WhoisProxy.com
+# https://whoisproxy.com/
+WhoisProxy\.com Ltd\.
+c/o WhoisProxy\.com
 
-Whois Privacy Corp.
+Whois Privacy Corp\.
+
+# https://contactprivacy.com/
+Contact Privacy
+Contact Privacy Inc\. Customer \d+
+
+.+ c/o WHOIS Privacy Ltd\.
+
+Domain Privacy Ltd
+
+# https://whoistrustee.com/
+Registrant of .+
+
+# https://www.dreamhost.com/
+Proxy Protection LLC
+
+# https://www.lcn.com/
+Domain Proxy Service\. LCN\.com Limited
+
+# https://wedos.com/
+WEDOS WHOIS Domain Privacy Protection, s\.r\.o\.
+
+# https://webdomainsbyproxy.com/
+Web Domains By Proxy
+
+# https://www.namebright.com/
+NameBrightPrivacy\.com
+
+# https://contactprivacy.register.ca/
+SafeWhois\.ca Whois Privacy Service
+
+# https://www.do-reg.jp/
+Do-reg Whois Guard Service, IDC Frontier Inc\.
+
+# https://jewellaprivacy.com/
+Jewella Privacy LLC
+Jewella Privacy LLC Privacy ID# \d+
+
+# https://www.domainidshield.com/
+Domain ID Shield Service CO\., Limited
+
+# https://www.brandshield.com/
+BrandShield LTD
+
+# https://brandnames.net/
+Brand Names Inc / BrandNames\.net
+
+# https://proxy-privacy.com/
+c/o IDPS International Domain Privacy Services GmbH
+
+# https://www.respectmyprivacy.com/
+c/o RespectMyPrivacy, LLC
+
+# https://www.digitalprivacy.co/
+Digital Privacy Corporation
+
+# https://domaindataguard.com/
+Domain Data Guard
+
+# https://tinyurl.com/app/branded-domains
+Domain privacy by TinyURL LLC
+
+# https://domainprivacytrustee.ch/
+Domain Privacy Trustee SA
+
+# https://www.name.com/whois-privacy
+Domain Protection Services, Inc\.
+
+# https://domainwhoisprotect.net/
+Domain Whois Protection Service
+
+# https://www.easyspace.com/
+Easyspace Privacy
+
+# http://www.whoisprotection.biz/
+FBS INC / Whoisprotection\.biz
+
+# https://globaldomaingroup.com/
+Global Domain Group Privacy Service
+
+# https://iddp.net/
+IDDP\.Net, LLC - ID Domain Privacy Network
+
+Instant Privacy, Inc\.
+
+# https://www.kingsprotection.co.za/
+KINGS PROTECTION SERVICES
+
+# https://privatewho.is/
+Knock Knock WHOIS Not There, LLC
+
+# https://www.myprivacy.net/
+MyPrivacy\.net
+MyPrivacy\.net Ltd\.
+
+# https://www.namespro.ca/
+Namespro\.ca PrivateWHOIS
+
+# http://privacyhero.company/
+Privacy Hero Inc\.
+
+# https://privacyprotect.org/
+Privacy Protect
+Privacy Protect, LLC
+Privacy Protect, LLC \(PrivacyProtect\.org\)
+Privacy Protection Service INC d/b/a PrivacyProtect.org
+
+# https://www.hostnet.nl/
+Privacy Protected by Hostnet
+
+# https://whoisproxy.ru/
+Privacy protection service - whoisproxy.ru
+
+# http://privacyyes.com/
+PrivacyYes\.com
+
+# https://private.design/
+Private by Design, LLC
+
+# https://www.privatename.com/
+PrivateName Services Inc.
+
+# https://privatewhois.biz/
+Privatewhois biz
+
+# https://registrantprivacy.com/
+RegistrantPrivacy\.com
+
+# https://shieldwhois.com/
+Shield Whois
+
+# https://www.dondominio.com/
+Soluciones Corporativas IP, c/o Whois Proxy
+
+Super domains privacy LLC
+
+# Unknown Provider
+TotalDomain Privacy Ltd
+
+# Unknown Provider
+Whois Data Protection Sp\. z o\.o\.
+
+# Unknown Provider
+Whois Domain Admin\.
+
+# Unknown Provider
+WHOIS IDCPrivacy Service c/o IDC \(BVI\) Limited
+
+# Unknown Provider
+WHOIS Masked
+
+# Unknown Provider
+Whois Privacy \(enumDNS dba\)
+
+# Unknown Provider
+Whois Privacy Protection Foundation
+
+# Unknown Provider
+Whois Privacy Protection Service by \.+
+
+# Unknown Provider
+Whois Privacy Service
+
+# Unknown Provider
+WHOIS PROTECTION
+
+# Unknown Provider
+Whois protection, this company does not own this domain name s\.r\.o\.
+
+# Unknown Provider
+WhoisSecure
+
+# Unknown Provider
+Wuilt Domain Privacy
+
+# https://www.above.com/
+Above.com Domain Privacy

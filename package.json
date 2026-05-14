@@ -1,0 +1,19 @@
+{
+  "name": "whois-proxy",
+  "version": "1.0.0",
+  "description": "Collection of WHOIS proxy services",
+  "homepage": "https://github.com/Internet-Society-Belgium/whois-proxy#readme",
+  "bugs": {
+    "url": "https://github.com/Internet-Society-Belgium/whois-proxy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Internet-Society-Belgium/whois-proxy.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "author": "Julien Taes",
+  "type": "module",
+  "scripts": {
+    "format": "node scripts/sort.js proxy.json"
+  }
+}

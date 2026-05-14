@@ -1,0 +1,400 @@
+[
+  {
+    "pattern": [
+      "^Privacy Hero Inc\\.$"
+    ],
+    "provider": "http://privacyhero.company/"
+  },
+  {
+    "pattern": [
+      "^PrivacyYes\\.com$"
+    ],
+    "provider": "http://privacyyes.com/"
+  },
+  {
+    "pattern": [
+      "^FBS INC / Whoisprotection\\.biz$"
+    ],
+    "provider": "http://www.whoisprotection.biz/"
+  },
+  {
+    "pattern": [
+      "^Brand Names Inc / BrandNames\\.net$"
+    ],
+    "provider": "https://brandnames.net/"
+  },
+  {
+    "pattern": [
+      "^Contact Privacy Inc\\. Customer \\d+$",
+      "^Contact Privacy$"
+    ],
+    "provider": "https://contactprivacy.com/"
+  },
+  {
+    "pattern": [
+      "^SafeWhois\\.ca Whois Privacy Service$"
+    ],
+    "provider": "https://contactprivacy.register.ca/"
+  },
+  {
+    "pattern": [
+      "^Domain Data Guard$"
+    ],
+    "provider": "https://domaindataguard.com/"
+  },
+  {
+    "pattern": [
+      "^Domain Privacy Trustee SA$"
+    ],
+    "provider": "https://domainprivacytrustee.ch/"
+  },
+  {
+    "pattern": [
+      "^GLOBAL DOMAIN PRIVACY SERVICES INC$",
+      "^GLOBAL DOMAIN PRIVACY$"
+    ],
+    "provider": "https://domains-anonymizer.com/"
+  },
+  {
+    "pattern": [
+      "^Domain Whois Protection Service$"
+    ],
+    "provider": "https://domainwhoisprotect.net/"
+  },
+  {
+    "pattern": [
+      "^Global Domain Group Privacy Service$"
+    ],
+    "provider": "https://globaldomaingroup.com/"
+  },
+  {
+    "pattern": [
+      "^IDDP\\.Net, LLC - ID Domain Privacy Network$"
+    ],
+    "provider": "https://iddp.net/"
+  },
+  {
+    "pattern": [
+      "^Jewella Privacy LLC Privacy ID# \\d+$",
+      "^Jewella Privacy LLC$"
+    ],
+    "provider": "https://jewellaprivacy.com/"
+  },
+  {
+    "pattern": [
+      "^Moniker Privacy Services, LLC$",
+      "^Moniker Privacy Services$"
+    ],
+    "provider": "https://moniker.com/"
+  },
+  {
+    "pattern": [
+      "^Privacy Protect, LLC \\(PrivacyProtect\\.org\\)$",
+      "^Privacy Protect, LLC$",
+      "^Privacy Protect$",
+      "^Privacy Protection Service INC d/b/a PrivacyProtect.org$"
+    ],
+    "provider": "https://privacyprotect.org/"
+  },
+  {
+    "pattern": [
+      "^Private by Design, LLC$"
+    ],
+    "provider": "https://private.design/"
+  },
+  {
+    "pattern": [
+      "^Knock Knock WHOIS Not There, LLC$"
+    ],
+    "provider": "https://privatewho.is/"
+  },
+  {
+    "pattern": [
+      "^Privatewhois biz$"
+    ],
+    "provider": "https://privatewhois.biz/"
+  },
+  {
+    "pattern": [
+      "^c/o IDPS International Domain Privacy Services GmbH$"
+    ],
+    "provider": "https://proxy-privacy.com/"
+  },
+  {
+    "pattern": [
+      "^RegistrantPrivacy\\.com$"
+    ],
+    "provider": "https://registrantprivacy.com/"
+  },
+  {
+    "pattern": [
+      "^Shield Whois$"
+    ],
+    "provider": "https://shieldwhois.com/"
+  },
+  {
+    "pattern": [
+      "^Domain privacy by TinyURL LLC$"
+    ],
+    "provider": "https://tinyurl.com/app/branded-domains"
+  },
+  {
+    "pattern": [
+      "^Web Domains By Proxy$"
+    ],
+    "provider": "https://webdomainsbyproxy.com/"
+  },
+  {
+    "pattern": [
+      "^WEDOS WHOIS Domain Privacy Protection, s\\.r\\.o\\.$"
+    ],
+    "provider": "https://wedos.com/"
+  },
+  {
+    "pattern": [
+      "^Whois Data Protection Sp\\. z o\\.o\\.$"
+    ],
+    "provider": "https://whoisdataprotection.com/"
+  },
+  {
+    "pattern": [
+      "^Whoisprotection\\.cc$"
+    ],
+    "provider": "https://whoisprotection.cc/"
+  },
+  {
+    "pattern": [
+      "^c/o WhoisProxy\\.com$",
+      "^WhoisProxy\\.com Ltd\\.$"
+    ],
+    "provider": "https://whoisproxy.com/"
+  },
+  {
+    "pattern": [
+      "^Privacy protection service - whoisproxy.ru$"
+    ],
+    "provider": "https://whoisproxy.ru/"
+  },
+  {
+    "pattern": [
+      "^WhoisSecure$"
+    ],
+    "provider": "https://whoissecure.net/"
+  },
+  {
+    "pattern": [
+      "^Registrant of .+$"
+    ],
+    "provider": "https://whoistrustee.com/"
+  },
+  {
+    "pattern": [
+      "^Privacy service provided by Withheld for Privacy ehf$",
+      "^Withheld for Privacy Purposes$"
+    ],
+    "provider": "https://withheldforprivacy.com/"
+  },
+  {
+    "pattern": [
+      "^Wuilt Domain Privacy$"
+    ],
+    "provider": "https://wuilt.com/"
+  },
+  {
+    "pattern": [
+      "^Above.com Domain Privacy$"
+    ],
+    "provider": "https://www.above.com/"
+  },
+  {
+    "pattern": [
+      "^Anonymize LLC$"
+    ],
+    "provider": "https://www.anonymize.com/"
+  },
+  {
+    "pattern": [
+      "^BrandShield LTD$"
+    ],
+    "provider": "https://www.brandshield.com/"
+  },
+  {
+    "pattern": [
+      "^Digital Privacy Corporation$"
+    ],
+    "provider": "https://www.digitalprivacy.co/"
+  },
+  {
+    "pattern": [
+      "^Do-reg Whois Guard Service, IDC Frontier Inc\\.$"
+    ],
+    "provider": "https://www.do-reg.jp/"
+  },
+  {
+    "pattern": [
+      "^Domain ID Shield Service CO\\., Limited$"
+    ],
+    "provider": "https://www.domainidshield.com/"
+  },
+  {
+    "pattern": [
+      "^Domains by Proxy, LLC$"
+    ],
+    "provider": "https://www.domainsbyproxy.com/"
+  },
+  {
+    "pattern": [
+      "^Soluciones Corporativas IP, c/o Whois Proxy$"
+    ],
+    "provider": "https://www.dondominio.com/"
+  },
+  {
+    "pattern": [
+      "^Proxy Protection LLC$"
+    ],
+    "provider": "https://www.dreamhost.com/"
+  },
+  {
+    "pattern": [
+      "^Dynadot Privacy Service$",
+      "^Super Privacy Service LTD c/o Dynadot$"
+    ],
+    "provider": "https://www.dynadot.com/"
+  },
+  {
+    "pattern": [
+      "^Easyspace Privacy$"
+    ],
+    "provider": "https://www.easyspace.com/"
+  },
+  {
+    "pattern": [
+      "^Privacy Protected by Hostnet$"
+    ],
+    "provider": "https://www.hostnet.nl/"
+  },
+  {
+    "pattern": [
+      "^WHOIS IDCPrivacy Service c/o IDC \\(BVI\\) Limited$"
+    ],
+    "provider": "https://www.idcprivacy.com/"
+  },
+  {
+    "pattern": [
+      "^KINGS PROTECTION SERVICES$"
+    ],
+    "provider": "https://www.kingsprotection.co.za/"
+  },
+  {
+    "pattern": [
+      "^Domain Proxy Service\\. LCN\\.com Limited$"
+    ],
+    "provider": "https://www.lcn.com/"
+  },
+  {
+    "pattern": [
+      "^MyPrivacy\\.net Ltd\\.$",
+      "^MyPrivacy\\.net$"
+    ],
+    "provider": "https://www.myprivacy.net/"
+  },
+  {
+    "pattern": [
+      "^Domain Protection Services, Inc\\.$"
+    ],
+    "provider": "https://www.name.com/whois-privacy"
+  },
+  {
+    "pattern": [
+      "^NameBrightPrivacy\\.com$"
+    ],
+    "provider": "https://www.namebright.com/"
+  },
+  {
+    "pattern": [
+      "^Namespro\\.ca PrivateWHOIS$"
+    ],
+    "provider": "https://www.namespro.ca/"
+  },
+  {
+    "pattern": [
+      "^PrivacyGuardian\\.org llc$",
+      "^See PrivacyGuardian\\.org$"
+    ],
+    "provider": "https://www.privacyguardian.org/"
+  },
+  {
+    "pattern": [
+      "^PrivateName Services Inc\\.$"
+    ],
+    "provider": "https://www.privatename.com/"
+  },
+  {
+    "pattern": [
+      "^c/o RespectMyPrivacy, LLC$"
+    ],
+    "provider": "https://www.respectmyprivacy.com/"
+  },
+  {
+    "pattern": [
+      "^WhoisGuard, Inc\\.$"
+    ],
+    "provider": "https://www.whoisguard.com/"
+  },
+  {
+    "pattern": [
+      "^Whois Privacy \\(enumDNS dba\\)$"
+    ],
+    "provider": "https://www.whoisprivacy.com/"
+  },
+  {
+    "pattern": [
+      "^Domain Privacy Ltd$"
+    ]
+  },
+  {
+    "pattern": [
+      "^Instant Privacy, Inc\\.$"
+    ]
+  },
+  {
+    "pattern": [
+      "^Perfect Privacy, LLC$"
+    ]
+  },
+  {
+    "pattern": [
+      "^Super domains privacy LLC$"
+    ]
+  },
+  {
+    "pattern": [
+      "^TotalDomain Privacy Ltd$"
+    ]
+  },
+  {
+    "pattern": [
+      "^Whois Privacy Corp\\.$"
+    ]
+  },
+  {
+    "pattern": [
+      "^Whois Privacy Protection Foundation$"
+    ]
+  },
+  {
+    "pattern": [
+      "^Whois Privacy Protection Service by .+$"
+    ]
+  },
+  {
+    "pattern": [
+      "^Whois Privacy Protection Service, Inc\\.$"
+    ]
+  },
+  {
+    "pattern": [
+      "^Whois protection, this company does not own this domain name s\\.r\\.o\\.$"
+    ]
+  }
+]
