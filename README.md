@@ -3,7 +3,7 @@
 A curated collection of **Regular Expressions** designed to identify WHOIS proxy services within the `Registrant Organization` or `Registrant Name` fields of WHOIS data.
 
 
-## 🛠 Usage & Format
+## 🛠️ Usage & Format
 
 ### Data Structure
 
