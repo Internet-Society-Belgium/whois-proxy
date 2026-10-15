@@ -190,6 +190,7 @@
   {
     "pattern": [
       "^Privacy service provided by Withheld for Privacy ehf$",
+      "^Privacy service provided by WITHHELD FOR PRIVACY LLC$",
       "^Withheld for Privacy Purposes$"
     ],
     "provider": "https://withheldforprivacy.com/"
